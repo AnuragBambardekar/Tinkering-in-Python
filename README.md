@@ -1,5 +1,5 @@
-# Learning-about-Python-Modern-GUIs
-Exploring new GUI frameworks in Python
+# Tinkering in Python
+Just tinkering and finding new things to learn in Python
 
 ## `ttkbootstrap` 
 `ttkbootstrap` is essentially Tkinter done right — a modern theming layer that makes classic Tk apps look clean and professional with almost zero effort.
