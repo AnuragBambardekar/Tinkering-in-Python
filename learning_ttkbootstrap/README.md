@@ -6,6 +6,9 @@ Just tinkering and finding new things to learn in Python
 
 "*ttkbootstrap* is a Python library that enhances tkinter by providing modern, flat-style themes inspired by Bootstrap. Easily create stylish GUI applications with built-in themes, pre-defined widget styles, and more." ~ https://github.com/israel-dryer/ttkbootstrap
 
+![alt text](image.png)
+
+
 **What ttkbootstrap Is:**
 - A modern theming + widget extension for tkinter.ttk
 - Inspired by Bootstrap (web) design language
@@ -27,4 +30,11 @@ Just tinkering and finding new things to learn in Python
 - ❌ Limited animations
 - ❌ Not suitable for large, consumer-grade apps
 
+## Installation
+```
+python -m pip install ttkbootstrap
+```
 
+## References
+- [Documentation](https://ttkbootstrap.readthedocs.io/en/latest/)
+- [GitHub](https://github.com/israel-dryer/ttkbootstrap)
